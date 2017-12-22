@@ -1,0 +1,25 @@
+1513973908641	geckodriver	INFO	geckodriver 0.18.0
+1513973908648	geckodriver	INFO	Listening on 127.0.0.1:53243
+1513973910002	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513973913726	Marionette	INFO	Enabled via --marionette
+1513973921095	Marionette	INFO	Listening on port 45889
+1513973921132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513973921201	Marionette	DEBUG	Register listener.js for window 2147483649
+1513973921439	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513973922685	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513973922685	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513973924017	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/georgemaslin/"
+1513973924322	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/georgemaslin/"
+[Child 4104, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513973925442	geckodriver	INFO	geckodriver 0.18.0
+1513973925449	geckodriver	INFO	Listening on 127.0.0.1:59533
+1513973925609	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513973926415	Marionette	INFO	Enabled via --marionette
+1513973929474	Marionette	INFO	Listening on port 36571
+1513973929714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513973929792	Marionette	DEBUG	Register listener.js for window 2147483649
+1513973929825	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513973930083	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513973930180	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513973930536	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/?force_classic_login"
+1513973930794	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/?force_classic_login"
